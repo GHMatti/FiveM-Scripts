@@ -1,6 +1,6 @@
 -- Resource Metadata
 fx_version 'bodacious'
-games { 'gta5' }
+game 'gta5'
 
 author 'GHMatti'
 description 'mhacking'
