@@ -1,4 +1,10 @@
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+-- Resource Metadata
+fx_version 'bodacious'
+game 'gta5'
+
+author 'GHMatti'
+description 'mhacking'
+version '1.0.0'
 
 ui_page 'hack.html'
 
